@@ -1,0 +1,10 @@
+INSERT INTO productos(nombre, precio, create_at) VALUES('GeForce RTX 3080 Ti', 1599, '2023-05-05');
+INSERT INTO productos(nombre, precio, create_at) VALUES('Intel Core i9-11900K', 699, '2023-05-10');
+INSERT INTO productos(nombre, precio, create_at) VALUES('AMD Radeon RX 6800 XT', 999, '2023-05-14');
+INSERT INTO productos(nombre, precio, create_at) VALUES('Samsung 970 EVO Plus 1TB', 169, '2023-05-07');
+INSERT INTO productos(nombre, precio, create_at) VALUES('Corsair Vengeance RGB Pro 32GB', 299, '2023-05-18');
+INSERT INTO productos(nombre, precio, create_at) VALUES('Western Digital Blue 2TB HDD', 79, '2023-05-22');
+INSERT INTO productos(nombre, precio, create_at) VALUES('MSI MAG B560 Tomahawk', 179, '2023-05-03');
+INSERT INTO productos(nombre, precio, create_at) VALUES('Crucial MX500 500GB SSD', 99, '2023-05-26');
+INSERT INTO productos(nombre, precio, create_at) VALUES('NZXT Kraken X73 RGB', 189, '2023-05-12');
+INSERT INTO productos(nombre, precio, create_at) VALUES('G.Skill Trident Z Neo 16GB', 179, '2023-05-29');
